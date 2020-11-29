@@ -1,0 +1,36 @@
+* {
+    font-family: sans-serif;
+  }
+body{
+    background-image: url(background\ image\ 2.jpg);
+    margin:30px;
+}
+h1{
+    text-align: center;
+    color: black;
+    background-color: #c5d4d0;
+}
+
+h5{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    background-color:#c5d4d0 ;
+}
+
+h3{
+    margin: 20px;
+    
+}
+
+
+
+
+  
+  
+  

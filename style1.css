@@ -1,0 +1,23 @@
+
+.movie-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  th, td {
+    padding: 12px 15px;
+  }
+  
+  
+   tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+   tr:nth-child(odd){
+    background-color:white;
+}
